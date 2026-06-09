@@ -1,0 +1,6 @@
+{
+  "name": "Jerox AI",
+  "description": "A premium modern AI SaaS platform with intelligent intent detection for chat, code, image, and video generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
